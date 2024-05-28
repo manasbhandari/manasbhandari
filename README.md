@@ -11,7 +11,7 @@
 
 <img align="right" src="https://i2.wp.com/cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1600px; height: 324px; margin: 0px; width: 432px;" alt="Convert Video To Transparent Background Gifs, Gif To Video, 53% OFF" jsname="kn3ccd">
 
-- 👨‍💻 All of my projects are available at [https://github.com/manasbhandari](https://github.com/manasbhandari)
+- 👨‍💻 All of my projects are available at [https://github.com/manasbhandari?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/manas0609/](https://www.linkedin.com/in/manas0609/)
 
