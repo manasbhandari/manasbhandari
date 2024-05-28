@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHmwnPjr1WM0w/profile-displaybackgroundimage-shrink_350_1400/0/1713461913633?e=1722470400&v=beta&t=iP24NlZj_PPr6Dlb4nj6E9WsPoi9QbKEaWHoPkGkgg0)
 <h1 align="center">Namaste 👋 I'm Manas Bhandari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="manasbhandari" /> </p>
